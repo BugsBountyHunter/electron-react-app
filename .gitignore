@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+.parcel-cache/
+dist/
+corverage
+.vscode/
 
 # testing
 /coverage
